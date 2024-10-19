@@ -1,0 +1,7 @@
+h1{color: blue;
+    color: white !important;}
+
+li{color: blue;}
+.classli{color: green;}
+li[draggable]{color:red}
+#liId{color:yellow}
